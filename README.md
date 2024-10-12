@@ -4,11 +4,6 @@ Instructions
 You are required to come up with a solution of the provided business case in the next section.
 
 
-Submission Requirements:
- Updated Resume (at max of 2 Pages), 
- Jupyter Notebook
-
-
 
 Business Context:
 This case requires trainees to develop a model for predicting fraudulent transactions for a 
